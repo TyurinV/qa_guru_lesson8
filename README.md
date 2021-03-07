@@ -1,1 +1,1 @@
-# qa_guru_lesson8
+# qa_guru_lesson8 крутим тесты в терминале.
